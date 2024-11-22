@@ -43,6 +43,7 @@ Thumbs.db
 *.pb
 *.onnx
 *.zip
+#crop_model.h5
 jupyter notebook/crop_desease_dataset.zip
 
 /static/
